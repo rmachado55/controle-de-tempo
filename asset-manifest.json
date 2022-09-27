@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/controle-de-tempo/static/css/main.89108751.chunk.css",
+    "main.js": "/controle-de-tempo/static/js/main.c2b52c9d.chunk.js",
+    "main.js.map": "/controle-de-tempo/static/js/main.c2b52c9d.chunk.js.map",
+    "runtime-main.js": "/controle-de-tempo/static/js/runtime-main.7b41db1d.js",
+    "runtime-main.js.map": "/controle-de-tempo/static/js/runtime-main.7b41db1d.js.map",
+    "static/js/2.1abe44d3.chunk.js": "/controle-de-tempo/static/js/2.1abe44d3.chunk.js",
+    "static/js/2.1abe44d3.chunk.js.map": "/controle-de-tempo/static/js/2.1abe44d3.chunk.js.map",
+    "index.html": "/controle-de-tempo/index.html",
+    "static/css/main.89108751.chunk.css.map": "/controle-de-tempo/static/css/main.89108751.chunk.css.map",
+    "static/js/2.1abe44d3.chunk.js.LICENSE.txt": "/controle-de-tempo/static/js/2.1abe44d3.chunk.js.LICENSE.txt",
+    "static/media/Item.module.scss": "/controle-de-tempo/static/media/check-mark.53f24c0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b41db1d.js",
+    "static/js/2.1abe44d3.chunk.js",
+    "static/css/main.89108751.chunk.css",
+    "static/js/main.c2b52c9d.chunk.js"
+  ]
+}
