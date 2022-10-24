@@ -13,7 +13,7 @@ https://rmachado55.github.io/controle-de-tempo/
 - useState e useEffect (React.JS);
 - Organização do código (Single Responsability Principle);
 - Lógica (JavaScript);
-- Estilização (CSS Modules);
+- Estilização (SASS);
 
-## TYPESCRIPT / REACT / JS / CSS3 / HTML5
+## TYPESCRIPT / REACT / JS / SASS / HTML5
 - Feito a partir de exercício da Alura em Setembro 2022.
